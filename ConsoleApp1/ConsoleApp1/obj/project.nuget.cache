@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KpCGN0QLnCgMRT2jK9G33ejgiuYxLonRVRAg9g/m6v0KojPMheACkUDijprUBAd2E7+DfRTVXwrE1eXVIahodQ==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\WordDocumentTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\openxmlpowertools.netstandard\\4.6.0\\openxmlpowertools.netstandard.4.6.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
